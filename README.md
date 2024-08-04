@@ -4,7 +4,7 @@
 ### Быстрая шпаргалка
 ```mermaid
 graph TD;
-	A[git add file] --> B[git commit -m "comment"];
+	A[git add file] --> B[git commit -m comment];
 	B --> C[git push];	
 ```
 ---
